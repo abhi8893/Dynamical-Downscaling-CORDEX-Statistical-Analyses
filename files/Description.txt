@@ -1,0 +1,22 @@
+The following naming convention is adopted for the files:
+
+1. RCP45 and RCP85 refer to the IPCC representative concentration pathways.
+
+2. 2021-2050 is the near future time slice of the CORDEX ENSEMBLE SIMULATIONS
+
+3. Tmax40days: Projected change (per year) in Tmax > 40C days for the RCP4.5 scenario 
+	       for the near future (2021-2050) w.r.t baseline simulation (1971-2000).
+
+4. Tmax90pdays||Tmax95pdays: Percentage of days with Tmax above nth percentile calculated 
+			     from baseline simulation (1971-2000).
+
+5. CSU40_3day: Change in Consecutive summer days (events) with Tmax > 40C for atleast 
+               3 consecutive days w.r.t baseline simulation (1971-2000).
+
+6. Precip90pdays||Precip95pdays: Percentage of days with Precip above nth percentile calculated 
+			         from baseline simulation (1971-2000).
+
+4. MAM: March-April-May
+5. MAMJ: March-April-May-June
+6. JJAS: June-July-August-September
+
